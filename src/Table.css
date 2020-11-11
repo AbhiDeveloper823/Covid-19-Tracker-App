@@ -1,0 +1,4 @@
+.card-table{
+	height: 80vh !important;
+	overflow-y: scroll;
+}
